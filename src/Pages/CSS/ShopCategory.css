@@ -20,7 +20,7 @@
 .shopcategory-indexSort p span{
     font-weight: 600;
 }
-.shopcategory-product{
+.shopcategory-products{
     margin: 20px 170px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;

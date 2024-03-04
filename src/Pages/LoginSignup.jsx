@@ -16,7 +16,7 @@ import './CSS/LoginSignup.css'
         <button>Continue</button>
         <p className='loginsignup-login'>Already have an account? <span>Login</span></p>
         <div className="loginsignup-agree">
-          <input type="checkbox" name='' />
+          <input type="checkbox" name=''  id=''/>
           <p>By continuing ,i agree to the  term of use & privacy policy</p>
         </div>
       
